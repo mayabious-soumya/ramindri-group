@@ -1,0 +1,102 @@
+@media only screen and (max-width: 989px) {
+  .contact-wrap .contactinfo{ width: 40%; }
+  .navbar-nav .nav-item {
+    margin: 0 2px;
+  }
+  .navbar-nav {
+    margin-top: 26px;
+  }
+  .awards-wrap .award-block {
+    padding: 60px 25px 0 25px;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    padding: 5px 6px;
+    font-size: 13px;
+  }
+  .logo img {
+    max-width: 90px;
+  }
+  .journy-wrap-3 .text-wrap3{ position: static; width: 100%; }
+  .journy-wrap-4 .nav-tabs .nav-link{ margin: 0; }
+  .journy-wrap-4 .tab-content .col-sm-4{ -ms-flex: 0 0 50%;
+flex: 0 0 50%;
+max-width: 50%; }
+}
+
+@media only screen and (max-width: 767px) {
+  .footer-social-mb{ margin-bottom: 85px; }
+  footer .border-left{ border-left: none !important; }
+  .fabs{ bottom: 70px; }
+  .navbar-dark .dropdown-menu{ margin-bottom: 15px; background: #d7aa4d; }
+  .dropdown-menu{ position: inherit; transition: 0.5s; }
+  #menu .nav-item .nav-link{ color: #fff; }
+  #menu li{padding: 0; display: block;}
+
+.journy-wrap-4 .nav-tabs .nav-link{ font-size: 14px;
+padding: 8px; }
+#about img{ margin-bottom: 35px; }
+.sticky{ top: 97px; }
+  .topBannerSec .inner-title h1{ font-size: 34px; line-height: 50px; }
+  .projectNav li a{ padding: 10px 25px;}
+
+  .navbar-light .navbar-toggler{ border-color: #fff4df;
+position: absolute;
+right: 0;
+top: 0; }
+  .desk_display{ display: none; }
+  .mob_display{ display: block; }
+
+  .topBannerSec .inner-title{ width: 100%; }
+
+  .contact-wrap .contactinfo{ position: static; width: 100%; margin-top: -7px; }
+
+  .journy-wrap-4 .tab-content .col-sm-4{ -ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%; }
+
+
+  .about_sec_3 .box-2 .box-2-2{ font-size: 15px; line-height: 7vh; }
+  .mobnav {
+    display: block;
+  }
+
+  .desknav {
+    display: none;
+  }
+  .logo img {
+    margin-left: 15px;
+  }
+  .videoContainer .conIn h1 {
+    font-size: 34px;
+    line-height: 75px;
+  }
+  .videoContainer .conIn h1 {
+    width: 340px;
+  }
+  .banner-last-text-2 {
+    margin-left: -250px;
+  }
+  .owl-carousel-1 h4 {
+    right: 0;
+  }
+  .owl-carousel-1 h5 {
+    right: 25px;
+  }
+  .home-projects p {
+    margin-left: 0 !important;
+  }
+  .journey .block-wrap ul li {
+    width: 100%;
+    border-right: 0;
+  }
+  .home-blog .blog1 {
+    margin-bottom: 25px;
+  }
+  footer h4 {
+    margin-bottom: 35px;
+  }
+
+  .slidingVertical span {
+    width: 266px;
+  }
+}
